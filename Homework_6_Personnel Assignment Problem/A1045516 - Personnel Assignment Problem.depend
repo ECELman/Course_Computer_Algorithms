@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513859963 source:c:\users\eric\desktop\a1045516 - personnel assignment problem\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+
